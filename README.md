@@ -2,7 +2,7 @@
 The goal is to learn how to use the shared preferences plugin to save important pieces of information to your device.
 
 ### Final App UI
-
+![shared preference](https://user-images.githubusercontent.com/36065206/147844427-77748dc6-dd41-4ee8-b6f1-06e1c32593a7.png)
 
 ### Resources
 A few resources to get you started if this is your first Flutter project:
