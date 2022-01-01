@@ -1,11 +1,10 @@
-# recipe_finder
+## Recipe Finder
+The goal is to learn how to use the shared preferences plugin to save important pieces of information to your device.
 
-Recipe Finder
+### Final App UI
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
+### Resources
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
